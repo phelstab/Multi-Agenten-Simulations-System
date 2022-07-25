@@ -1,0 +1,21 @@
+
+Whitepapers:
+https://arxiv.org/abs/1904.12066
+https://dl.acm.org/doi/10.1145/3384441.3395986
+https://arxiv.org/abs/1909.11650
+
+
+Wiki Pages:
+RMSC03 Wiki: https://github.com/abides-sim/abides/wiki
+Building own Trading Agents Wiki: https://github.com/abides-sim/abides/wiki/ExperimentalAgents
+
+Glossar:
+RMSC03 -> Reference Market Simulation Configuration
+ABM -> Agent Based Modelling
+
+
+
+
+Experiment:
+python -u abides.py -c rmsc03 -t ABM -d 20200603 -s 1234 -l rmsc03_two_hour
+python -u liquidity_telemetry.py ../../log/rmsc03_two_hour/EXCHANGE_AGENT.bz2 ../../log/rmsc03_two_hour/ORDERBOOK_ABM_FULL.bz2 \ -o rmsc03_two_hour.png -c configs/plot_09.30_11.30.json

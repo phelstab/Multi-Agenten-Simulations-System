@@ -1,0 +1,1019 @@
+Final holdings for NoiseAgent 4553: { ABM: 38, CASH: 6202052 }.  Marked to market: 9997454
+Final relative surplus NoiseAgent 4553 -0.3797948
+Final holdings for NoiseAgent 4554: { ABM: 23, CASH: 7703197 }.  Marked to market: 9998436
+Final relative surplus NoiseAgent 4554 -0.2296803
+Final holdings for NoiseAgent 4555: { ABM: 32, CASH: 6804448 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4555 -0.3195552
+Final holdings for NoiseAgent 4556: { ABM: 28, CASH: 7201512 }.  Marked to market: 9997620
+Final relative surplus NoiseAgent 4556 -0.2798488
+Final holdings for NoiseAgent 4557: { ABM: 30, CASH: 7004170 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4557 -0.299583
+Final holdings for NoiseAgent 4558: { ABM: 22, CASH: 7803058 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4558 -0.2196942
+Final holdings for NoiseAgent 4559: { CASH: 9995629 }.  Marked to market: 9995629
+Final relative surplus NoiseAgent 4559 -0.0004371
+Final holdings for NoiseAgent 4560: { ABM: 62, CASH: 3809052 }.  Marked to market: 9999566
+Final relative surplus NoiseAgent 4560 -0.60911035
+Final holdings for NoiseAgent 4561: { ABM: 45, CASH: 5502430 }.  Marked to market: 9996175
+Final relative surplus NoiseAgent 4561 -0.449757
+Final holdings for NoiseAgent 4562: { ABM: 46, CASH: 5406394 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4562 -0.4593606
+Final holdings for NoiseAgent 4563: { ABM: -46, CASH: 14593606 }.  Marked to market: 10003128
+Final relative surplus NoiseAgent 4563 0.4593606
+Final holdings for NoiseAgent 4564: { CASH: 9994708 }.  Marked to market: 9994708
+Final relative surplus NoiseAgent 4564 -0.0005292
+Final holdings for NoiseAgent 4565: { CASH: 10012000 }.  Marked to market: 10012000
+Final relative surplus NoiseAgent 4565 0.0012
+Final holdings for NoiseAgent 4566: { CASH: 10012386 }.  Marked to market: 10012386
+Final relative surplus NoiseAgent 4566 0.0012386
+Final holdings for NoiseAgent 4567: { ABM: -44, CASH: 14393884 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4567 0.4393884
+Final holdings for NoiseAgent 4568: { ABM: -82, CASH: 18175031 }.  Marked to market: 10013407
+Final relative surplus NoiseAgent 4568 0.80755
+Final holdings for NoiseAgent 4569: { ABM: 23, CASH: 7700414 }.  Marked to market: 9999172
+Final relative surplus NoiseAgent 4569 -0.2299586
+Final holdings for NoiseAgent 4570: { ABM: -29, CASH: 12895969 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4570 0.2895969
+Final holdings for NoiseAgent 4571: { ABM: 38, CASH: 6207866 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4571 -0.3792134
+Final holdings for NoiseAgent 4572: { ABM: 26, CASH: 7401404 }.  Marked to market: 9997790
+Final relative surplus NoiseAgent 4572 -0.2598596
+Final holdings for NoiseAgent 4573: { ABM: -27, CASH: 12699514 }.  Marked to market: 10001458
+Final relative surplus NoiseAgent 4573 0.2699514
+Final holdings for NoiseAgent 4574: { ABM: 21, CASH: 7901134 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4574 -0.2098866
+Final holdings for NoiseAgent 4575: { CASH: 10000000 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4575 0.0
+Final holdings for NoiseAgent 4576: { ABM: 62, CASH: 3812121 }.  Marked to market: 9991165
+Final relative surplus NoiseAgent 4576 -0.60882165
+Final holdings for NoiseAgent 4577: { ABM: 24, CASH: 7603336 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4577 -0.2396664
+Final holdings for NoiseAgent 4578: { ABM: -37, CASH: 13698002 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4578 0.3698002
+Final holdings for NoiseAgent 4579: { ABM: 64, CASH: 3607232 }.  Marked to market: 10001664
+Final relative surplus NoiseAgent 4579 -0.62928555
+Final holdings for NoiseAgent 4580: { ABM: -36, CASH: 13594996 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4580 0.3594996
+Final holdings for NoiseAgent 4581: { ABM: -36, CASH: 13594996 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4581 0.3594996
+Final holdings for NoiseAgent 4582: { ABM: -80, CASH: 17973539 }.  Marked to market: 10015299
+Final relative surplus NoiseAgent 4582 0.78740615
+Final holdings for NoiseAgent 4583: { ABM: 40, CASH: 6002160 }.  Marked to market: 9996600
+Final relative surplus NoiseAgent 4583 -0.399784
+Final holdings for NoiseAgent 4584: { ABM: 37, CASH: 6305143 }.  Marked to market: 9997484
+Final relative surplus NoiseAgent 4584 -0.3694857
+Final holdings for NoiseAgent 4585: { CASH: 10011515 }.  Marked to market: 10011515
+Final relative surplus NoiseAgent 4585 0.0011515
+Final holdings for NoiseAgent 4586: { ABM: 32, CASH: 6801728 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4586 -0.3198272
+Final holdings for NoiseAgent 4587: { ABM: -40, CASH: 13994440 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4587 0.399444
+Final holdings for NoiseAgent 4588: { ABM: 45, CASH: 5506255 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4588 -0.4493745
+Final holdings for NoiseAgent 4589: { ABM: 49, CASH: 5102646 }.  Marked to market: 9995835
+Final relative surplus NoiseAgent 4589 -0.4897354
+Final holdings for NoiseAgent 4590: { CASH: 9986266 }.  Marked to market: 9986266
+Final relative surplus NoiseAgent 4590 -0.0013734
+Final holdings for NoiseAgent 4591: { ABM: 40, CASH: 6005560 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4591 -0.399444
+Final holdings for NoiseAgent 4592: { ABM: 38, CASH: 6205282 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4592 -0.3794718
+Final holdings for NoiseAgent 4593: { CASH: 9998368 }.  Marked to market: 9998368
+Final relative surplus NoiseAgent 4593 -0.0001632
+Final holdings for NoiseAgent 4594: { ABM: -36, CASH: 13594996 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4594 0.3594996
+Final holdings for NoiseAgent 4595: { ABM: -78, CASH: 17773402 }.  Marked to market: 10015756
+Final relative surplus NoiseAgent 4595 0.7673944
+Final holdings for NoiseAgent 4596: { CASH: 10004563 }.  Marked to market: 10004563
+Final relative surplus NoiseAgent 4596 0.0004563
+Final holdings for NoiseAgent 4597: { ABM: 39, CASH: 6105421 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4597 -0.3894579
+Final holdings for NoiseAgent 4598: { ABM: 34, CASH: 6604726 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4598 -0.3395274
+Final holdings for NoiseAgent 4599: { CASH: 10000000 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4599 0.0
+Final holdings for NoiseAgent 4600: { ABM: 45, CASH: 5506255 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4600 -0.4493745
+Final holdings for NoiseAgent 4601: { CASH: 9997777 }.  Marked to market: 9997777
+Final relative surplus NoiseAgent 4601 -0.0002223
+Final holdings for NoiseAgent 4602: { CASH: 9992475 }.  Marked to market: 9992475
+Final relative surplus NoiseAgent 4602 -0.0007525
+Final holdings for NoiseAgent 4603: { CASH: 9996640 }.  Marked to market: 9996640
+Final relative surplus NoiseAgent 4603 -0.000336
+Final holdings for NoiseAgent 4604: { ABM: -45, CASH: 14497570 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4604 0.449757
+Final holdings for NoiseAgent 4605: { ABM: 23, CASH: 7703197 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4605 -0.2296803
+Final holdings for NoiseAgent 4606: { CASH: 9978489 }.  Marked to market: 9978489
+Final relative surplus NoiseAgent 4606 -0.0021511
+Final holdings for NoiseAgent 4607: { ABM: 48, CASH: 5202592 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4607 -0.4797408
+Final holdings for NoiseAgent 4608: { ABM: -45, CASH: 14493745 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4608 0.4493745
+Final holdings for NoiseAgent 4609: { ABM: -44, CASH: 14390100 }.  Marked to market: 10003784
+Final relative surplus NoiseAgent 4609 0.43901
+Final holdings for NoiseAgent 4610: { ABM: -35, CASH: 13498110 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4610 0.349811
+Final holdings for NoiseAgent 4611: { ABM: 33, CASH: 6704587 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4611 -0.3295413
+Final holdings for NoiseAgent 4612: { ABM: -49, CASH: 14893189 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4612 0.4893189
+Final holdings for NoiseAgent 4613: { ABM: 76, CASH: 2403116 }.  Marked to market: 10007448
+Final relative surplus NoiseAgent 4613 -0.74968275
+Final holdings for NoiseAgent 4614: { CASH: 10012924 }.  Marked to market: 10012924
+Final relative surplus NoiseAgent 4614 0.0012924
+Final holdings for NoiseAgent 4615: { ABM: 28, CASH: 7201512 }.  Marked to market: 9997620
+Final relative surplus NoiseAgent 4615 -0.2798488
+Final holdings for NoiseAgent 4616: { ABM: -36, CASH: 13594996 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4616 0.3594996
+Final holdings for NoiseAgent 4617: { ABM: 48, CASH: 5202592 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4617 -0.4797408
+Final holdings for NoiseAgent 4618: { ABM: 84, CASH: 1605250 }.  Marked to market: 10006342
+Final relative surplus NoiseAgent 4618 -0.82947365
+Final holdings for NoiseAgent 4619: { ABM: 37, CASH: 6305143 }.  Marked to market: 9997484
+Final relative surplus NoiseAgent 4619 -0.3694857
+Final holdings for NoiseAgent 4620: { ABM: -29, CASH: 12893997 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4620 0.2893997
+Final holdings for NoiseAgent 4621: { ABM: -33, CASH: 13295413 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4621 0.3295413
+Final holdings for NoiseAgent 4622: { CASH: 10006440 }.  Marked to market: 10006440
+Final relative surplus NoiseAgent 4622 0.000644
+Final holdings for NoiseAgent 4623: { ABM: -84, CASH: 18393028 }.  Marked to market: 10005460
+Final relative surplus NoiseAgent 4623 0.82931755
+Final holdings for NoiseAgent 4624: { ABM: 24, CASH: 7603336 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4624 -0.2396664
+Final holdings for NoiseAgent 4625: { ABM: -31, CASH: 13095691 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4625 0.3095691
+Final holdings for NoiseAgent 4626: { ABM: 44, CASH: 5602376 }.  Marked to market: 9996260
+Final relative surplus NoiseAgent 4626 -0.4397624
+Final holdings for NoiseAgent 4627: { ABM: -48, CASH: 14793328 }.  Marked to market: 10003264
+Final relative surplus NoiseAgent 4627 0.4793328
+Final holdings for NoiseAgent 4628: { ABM: 25, CASH: 7501350 }.  Marked to market: 9997875
+Final relative surplus NoiseAgent 4628 -0.249865
+Final holdings for NoiseAgent 4629: { ABM: 78, CASH: 2220163 }.  Marked to market: 9983971
+Final relative surplus NoiseAgent 4629 -0.76803005
+Final holdings for NoiseAgent 4630: { ABM: -38, CASH: 13794718 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4630 0.3794718
+Final holdings for NoiseAgent 4631: { ABM: 46, CASH: 5400828 }.  Marked to market: 9996964
+Final relative surplus NoiseAgent 4631 -0.4599172
+Final holdings for NoiseAgent 4632: { ABM: 23, CASH: 7703197 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4632 -0.2296803
+Final holdings for NoiseAgent 4633: { ABM: -21, CASH: 12097081 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4633 0.2097081
+Final holdings for NoiseAgent 4634: { ABM: -23, CASH: 12298758 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4634 0.2298758
+Final holdings for NoiseAgent 4635: { ABM: -76, CASH: 17581228 }.  Marked to market: 10008132
+Final relative surplus NoiseAgent 4635 0.74815825
+Final holdings for NoiseAgent 4636: { ABM: 42, CASH: 5805838 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4636 -0.4194162
+Final holdings for NoiseAgent 4637: { ABM: 29, CASH: 7101566 }.  Marked to market: 9997535
+Final relative surplus NoiseAgent 4637 -0.2898434
+Final holdings for NoiseAgent 4638: { ABM: -20, CASH: 11997220 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4638 0.199722
+Final holdings for NoiseAgent 4639: { ABM: -43, CASH: 14297678 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4639 0.4297678
+Final holdings for NoiseAgent 4640: { ABM: -29, CASH: 12898434 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4640 0.2898434
+Final holdings for NoiseAgent 4641: { CASH: 9983046 }.  Marked to market: 9983046
+Final relative surplus NoiseAgent 4641 -0.0016954
+Final holdings for NoiseAgent 4642: { ABM: 29, CASH: 7104031 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4642 -0.2895969
+Final holdings for NoiseAgent 4643: { CASH: 10002820 }.  Marked to market: 10002820
+Final relative surplus NoiseAgent 4643 0.000282
+Final holdings for NoiseAgent 4644: { ABM: -66, CASH: 16595512 }.  Marked to market: 9995314
+Final relative surplus NoiseAgent 4644 0.64955085
+Final holdings for NoiseAgent 4645: { ABM: -50, CASH: 14986875 }.  Marked to market: 10006175
+Final relative surplus NoiseAgent 4645 0.4986875
+Final holdings for NoiseAgent 4646: { ABM: 92, CASH: 832476 }.  Marked to market: 9972492
+Final relative surplus NoiseAgent 4646 -0.90681765
+Final holdings for NoiseAgent 4647: { ABM: -21, CASH: 12097081 }.  Marked to market: 10001428
+Final relative surplus NoiseAgent 4647 0.2097081
+Final holdings for NoiseAgent 4648: { CASH: 10005292 }.  Marked to market: 10005292
+Final relative surplus NoiseAgent 4648 0.0005292
+Final holdings for NoiseAgent 4649: { ABM: -32, CASH: 13195552 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4649 0.3195552
+Final holdings for NoiseAgent 4650: { ABM: 37, CASH: 6305143 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4650 -0.3694857
+Final holdings for NoiseAgent 4651: { ABM: -32, CASH: 13195552 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4651 0.3195552
+Final holdings for NoiseAgent 4652: { CASH: 10006831 }.  Marked to market: 10006831
+Final relative surplus NoiseAgent 4652 0.0006831
+Final holdings for NoiseAgent 4653: { ABM: -37, CASH: 13694857 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4653 0.3694857
+Final holdings for NoiseAgent 4654: { ABM: -33, CASH: 13295413 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4654 0.3295413
+Final holdings for NoiseAgent 4655: { ABM: 36, CASH: 6405004 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4655 -0.3594996
+Final holdings for NoiseAgent 4656: { ABM: 36, CASH: 6405004 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4656 -0.3594996
+Final holdings for NoiseAgent 4657: { ABM: 40, CASH: 6005560 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4657 -0.399444
+Final holdings for NoiseAgent 4658: { ABM: -35, CASH: 13498110 }.  Marked to market: 10004095
+Final relative surplus NoiseAgent 4658 0.349811
+Final holdings for NoiseAgent 4659: { ABM: 41, CASH: 5905699 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4659 -0.4094301
+Final holdings for NoiseAgent 4660: { ABM: -36, CASH: 13599352 }.  Marked to market: 10001296
+Final relative surplus NoiseAgent 4660 0.3599352
+Final holdings for NoiseAgent 4661: { ABM: -24, CASH: 12396664 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4661 0.2396664
+Final holdings for NoiseAgent 4662: { ABM: -24, CASH: 12397089 }.  Marked to market: 10001601
+Final relative surplus NoiseAgent 4662 0.2397089
+Final holdings for NoiseAgent 4663: { ABM: -49, CASH: 14899363 }.  Marked to market: 9999951
+Final relative surplus NoiseAgent 4663 0.4899363
+Final holdings for NoiseAgent 4664: { CASH: 9987386 }.  Marked to market: 9987386
+Final relative surplus NoiseAgent 4664 -0.0012614
+Final holdings for NoiseAgent 4665: { ABM: 42, CASH: 5802268 }.  Marked to market: 9996430
+Final relative surplus NoiseAgent 4665 -0.4197732
+Final holdings for NoiseAgent 4666: { ABM: 48, CASH: 5206672 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4666 -0.4793328
+Final holdings for NoiseAgent 4667: { ABM: -21, CASH: 12098866 }.  Marked to market: 10001785
+Final relative surplus NoiseAgent 4667 0.2098866
+Final holdings for NoiseAgent 4668: { CASH: 10002160 }.  Marked to market: 10002160
+Final relative surplus NoiseAgent 4668 0.000216
+Final holdings for NoiseAgent 4669: { ABM: -47, CASH: 14693467 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4669 0.4693467
+Final holdings for NoiseAgent 4670: { ABM: -28, CASH: 12796108 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4670 0.2796108
+Final holdings for NoiseAgent 4671: { CASH: 10023373 }.  Marked to market: 10023373
+Final relative surplus NoiseAgent 4671 0.0023373
+Final holdings for NoiseAgent 4672: { ABM: -31, CASH: 13095691 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4672 0.3095691
+Final holdings for NoiseAgent 4673: { ABM: 22, CASH: 7801188 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4673 -0.2198812
+Final holdings for NoiseAgent 4674: { ABM: -92, CASH: 19172032 }.  Marked to market: 10015180
+Final relative surplus NoiseAgent 4674 0.90725005
+Final holdings for NoiseAgent 4675: { ABM: -22, CASH: 12198812 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4675 0.2198812
+Final holdings for NoiseAgent 4676: { ABM: 46, CASH: 5400972 }.  Marked to market: 9998488
+Final relative surplus NoiseAgent 4676 -0.4599028
+Final holdings for NoiseAgent 4677: { ABM: 27, CASH: 7303753 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4677 -0.2696247
+Final holdings for NoiseAgent 4678: { ABM: 44, CASH: 5606116 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4678 -0.4393884
+Final holdings for NoiseAgent 4679: { ABM: -44, CASH: 14397624 }.  Marked to market: 10004048
+Final relative surplus NoiseAgent 4679 0.4397624
+Final holdings for NoiseAgent 4680: { ABM: -94, CASH: 19393561 }.  Marked to market: 9993373
+Final relative surplus NoiseAgent 4680 0.92935585
+Final holdings for NoiseAgent 4681: { ABM: 37, CASH: 6305143 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4681 -0.3694857
+Final holdings for NoiseAgent 4682: { ABM: 25, CASH: 7505175 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4682 -0.2494825
+Final holdings for NoiseAgent 4683: { CASH: 10014592 }.  Marked to market: 10014592
+Final relative surplus NoiseAgent 4683 0.0014592
+Final holdings for NoiseAgent 4684: { ABM: -35, CASH: 13495135 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4684 0.3495135
+Final holdings for NoiseAgent 4685: { ABM: -20, CASH: 11998920 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4685 0.199892
+Final holdings for NoiseAgent 4686: { ABM: -38, CASH: 13794718 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4686 0.3794718
+Final holdings for NoiseAgent 4687: { ABM: 33, CASH: 6701782 }.  Marked to market: 9997195
+Final relative surplus NoiseAgent 4687 -0.3298218
+Final holdings for NoiseAgent 4688: { ABM: -23, CASH: 12296803 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4688 0.2296803
+Final holdings for NoiseAgent 4689: { ABM: 48, CASH: 5203272 }.  Marked to market: 9996600
+Final relative surplus NoiseAgent 4689 -0.4796728
+Final holdings for NoiseAgent 4690: { ABM: -27, CASH: 12696247 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4690 0.2696247
+Final holdings for NoiseAgent 4691: { ABM: -27, CASH: 12696247 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4691 0.2696247
+Final holdings for NoiseAgent 4692: { ABM: -31, CASH: 13095691 }.  Marked to market: 10002108
+Final relative surplus NoiseAgent 4692 0.3095691
+Final holdings for NoiseAgent 4693: { ABM: 40, CASH: 6005560 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4693 -0.399444
+Final holdings for NoiseAgent 4694: { ABM: 21, CASH: 7901134 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4694 -0.2098866
+Final holdings for NoiseAgent 4695: { ABM: 20, CASH: 8002780 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4695 -0.199722
+Final holdings for NoiseAgent 4696: { ABM: 80, CASH: 2021920 }.  Marked to market: 9989120
+Final relative surplus NoiseAgent 4696 -0.78784895
+Final holdings for NoiseAgent 4697: { ABM: 32, CASH: 6801728 }.  Marked to market: 9997280
+Final relative surplus NoiseAgent 4697 -0.3198272
+Final holdings for NoiseAgent 4698: { CASH: 9993163 }.  Marked to market: 9993163
+Final relative surplus NoiseAgent 4698 -0.0006837
+Final holdings for NoiseAgent 4699: { ABM: -33, CASH: 13295413 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4699 0.3295413
+Final holdings for NoiseAgent 4700: { ABM: 35, CASH: 6500630 }.  Marked to market: 9998740
+Final relative surplus NoiseAgent 4700 -0.349937
+Final holdings for NoiseAgent 4701: { ABM: 48, CASH: 5208832 }.  Marked to market: 10001056
+Final relative surplus NoiseAgent 4701 -0.4791168
+Final holdings for NoiseAgent 4702: { ABM: 23, CASH: 7700414 }.  Marked to market: 9999172
+Final relative surplus NoiseAgent 4702 -0.2299586
+Final holdings for NoiseAgent 4703: { ABM: 33, CASH: 6700594 }.  Marked to market: 9998812
+Final relative surplus NoiseAgent 4703 -0.3299406
+Final holdings for NoiseAgent 4704: { CASH: 9998729 }.  Marked to market: 9998729
+Final relative surplus NoiseAgent 4704 -0.0001271
+Final holdings for NoiseAgent 4705: { ABM: -33, CASH: 13295413 }.  Marked to market: 10002244
+Final relative surplus NoiseAgent 4705 0.3295413
+Final holdings for NoiseAgent 4706: { CASH: 10015908 }.  Marked to market: 10015908
+Final relative surplus NoiseAgent 4706 0.0015908
+Final holdings for NoiseAgent 4707: { CASH: 9992839 }.  Marked to market: 9992839
+Final relative surplus NoiseAgent 4707 -0.0007161
+Final holdings for NoiseAgent 4708: { ABM: 94, CASH: 605828 }.  Marked to market: 9999248
+Final relative surplus NoiseAgent 4708 -0.92942425
+Final holdings for NoiseAgent 4709: { ABM: 33, CASH: 6704587 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4709 -0.3295413
+Final holdings for NoiseAgent 4710: { CASH: 9987889 }.  Marked to market: 9987889
+Final relative surplus NoiseAgent 4710 -0.0012111
+Final holdings for NoiseAgent 4711: { CASH: 10002016 }.  Marked to market: 10002016
+Final relative surplus NoiseAgent 4711 0.0002016
+Final holdings for NoiseAgent 4712: { CASH: 10000945 }.  Marked to market: 10000945
+Final relative surplus NoiseAgent 4712 9.45e-05
+Final holdings for NoiseAgent 4713: { ABM: -22, CASH: 12196942 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4713 0.2196942
+Final holdings for NoiseAgent 4714: { ABM: 38, CASH: 6204484 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4714 -0.3795516
+Final holdings for NoiseAgent 4715: { ABM: -38, CASH: 13797948 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4715 0.3797948
+Final holdings for NoiseAgent 4716: { ABM: 31, CASH: 6906417 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4716 -0.3093583
+Final holdings for NoiseAgent 4717: { ABM: 34, CASH: 6604726 }.  Marked to market: 9997688
+Final relative surplus NoiseAgent 4717 -0.3395274
+Final holdings for NoiseAgent 4718: { ABM: -37, CASH: 13698002 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4718 0.3698002
+Final holdings for NoiseAgent 4719: { CASH: 10000000 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4719 0.0
+Final holdings for NoiseAgent 4720: { ABM: -33, CASH: 13295413 }.  Marked to market: 10002244
+Final relative surplus NoiseAgent 4720 0.3295413
+Final holdings for NoiseAgent 4721: { ABM: 48, CASH: 5202592 }.  Marked to market: 9995920
+Final relative surplus NoiseAgent 4721 -0.4797408
+Final holdings for NoiseAgent 4722: { ABM: -28, CASH: 12796108 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4722 0.2796108
+Final holdings for NoiseAgent 4723: { ABM: 25, CASH: 7503475 }.  Marked to market: 9998300
+Final relative surplus NoiseAgent 4723 -0.2496525
+Final holdings for NoiseAgent 4724: { ABM: -21, CASH: 12100105 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4724 0.2100105
+Final holdings for NoiseAgent 4725: { ABM: 27, CASH: 7303753 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4725 -0.2696247
+Final holdings for NoiseAgent 4726: { CASH: 9987114 }.  Marked to market: 9987114
+Final relative surplus NoiseAgent 4726 -0.0012886
+Final holdings for NoiseAgent 4727: { ABM: 26, CASH: 7403614 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4727 -0.2596386
+Final holdings for NoiseAgent 4728: { ABM: 47, CASH: 5302538 }.  Marked to market: 9996005
+Final relative surplus NoiseAgent 4728 -0.4697462
+Final holdings for NoiseAgent 4729: { ABM: -42, CASH: 14195790 }.  Marked to market: 10000242
+Final relative surplus NoiseAgent 4729 0.419579
+Final holdings for NoiseAgent 4730: { ABM: 23, CASH: 7703197 }.  Marked to market: 9998436
+Final relative surplus NoiseAgent 4730 -0.2296803
+Final holdings for NoiseAgent 4731: { ABM: 49, CASH: 5102646 }.  Marked to market: 9995835
+Final relative surplus NoiseAgent 4731 -0.4897354
+Final holdings for NoiseAgent 4732: { ABM: -21, CASH: 12097081 }.  Marked to market: 10001428
+Final relative surplus NoiseAgent 4732 0.2097081
+Final holdings for NoiseAgent 4733: { ABM: -21, CASH: 12098866 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4733 0.2098866
+Final holdings for NoiseAgent 4734: { CASH: 10020496 }.  Marked to market: 10020496
+Final relative surplus NoiseAgent 4734 0.0020496
+Final holdings for NoiseAgent 4735: { ABM: 20, CASH: 8002780 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4735 -0.199722
+Final holdings for NoiseAgent 4736: { ABM: -46, CASH: 14592551 }.  Marked to market: 10002073
+Final relative surplus NoiseAgent 4736 0.4592551
+Final holdings for NoiseAgent 4737: { ABM: -43, CASH: 14297858 }.  Marked to market: 10000180
+Final relative surplus NoiseAgent 4737 0.4297858
+Final holdings for NoiseAgent 4738: { ABM: -40, CASH: 13999280 }.  Marked to market: 10004840
+Final relative surplus NoiseAgent 4738 0.399928
+Final holdings for NoiseAgent 4739: { ABM: -47, CASH: 14697462 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4739 0.4697462
+Final holdings for NoiseAgent 4740: { ABM: -42, CASH: 14197732 }.  Marked to market: 10003570
+Final relative surplus NoiseAgent 4740 0.4197732
+Final holdings for NoiseAgent 4741: { ABM: -47, CASH: 14697462 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4741 0.4697462
+Final holdings for NoiseAgent 4742: { ABM: 35, CASH: 6501890 }.  Marked to market: 9997025
+Final relative surplus NoiseAgent 4742 -0.349811
+Final holdings for NoiseAgent 4743: { ABM: -52, CASH: 15186168 }.  Marked to market: 10011024
+Final relative surplus NoiseAgent 4743 0.50866455
+Final holdings for NoiseAgent 4744: { ABM: 44, CASH: 5606116 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4744 -0.4393884
+Final holdings for NoiseAgent 4745: { ABM: 31, CASH: 6904309 }.  Marked to market: 9997892
+Final relative surplus NoiseAgent 4745 -0.3095691
+Final holdings for NoiseAgent 4746: { ABM: 25, CASH: 7503475 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4746 -0.2496525
+Final holdings for NoiseAgent 4747: { CASH: 9986552 }.  Marked to market: 9986552
+Final relative surplus NoiseAgent 4747 -0.0013448
+Final holdings for NoiseAgent 4748: { ABM: -34, CASH: 13398164 }.  Marked to market: 10002890
+Final relative surplus NoiseAgent 4748 0.3398164
+Final holdings for NoiseAgent 4749: { ABM: -35, CASH: 13495135 }.  Marked to market: 10002380
+Final relative surplus NoiseAgent 4749 0.3495135
+Final holdings for NoiseAgent 4750: { ABM: -48, CASH: 14797408 }.  Marked to market: 10004080
+Final relative surplus NoiseAgent 4750 0.4797408
+Final holdings for NoiseAgent 4751: { ABM: 22, CASH: 7801188 }.  Marked to market: 9998130
+Final relative surplus NoiseAgent 4751 -0.2198812
+Final holdings for NoiseAgent 4752: { CASH: 9991096 }.  Marked to market: 9991096
+Final relative surplus NoiseAgent 4752 -0.0008904
+Final holdings for NoiseAgent 4753: { CASH: 10001976 }.  Marked to market: 10001976
+Final relative surplus NoiseAgent 4753 0.0001976
+Final holdings for NoiseAgent 4754: { ABM: 43, CASH: 5705977 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4754 -0.4294023
+Final holdings for NoiseAgent 4755: { ABM: 24, CASH: 7604968 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4755 -0.2395032
+Final holdings for NoiseAgent 4756: { CASH: 10008022 }.  Marked to market: 10008022
+Final relative surplus NoiseAgent 4756 0.0008022
+Final holdings for NoiseAgent 4757: { ABM: 27, CASH: 7303753 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4757 -0.2696247
+Final holdings for NoiseAgent 4758: { ABM: -25, CASH: 12498650 }.  Marked to market: 10002125
+Final relative surplus NoiseAgent 4758 0.249865
+Final holdings for NoiseAgent 4759: { ABM: 70, CASH: 3023450 }.  Marked to market: 9986280
+Final relative surplus NoiseAgent 4759 -0.68770815
+Final holdings for NoiseAgent 4760: { CASH: 10014820 }.  Marked to market: 10014820
+Final relative surplus NoiseAgent 4760 0.001482
+Final holdings for NoiseAgent 4761: { ABM: 29, CASH: 7104031 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4761 -0.2895969
+Final holdings for NoiseAgent 4762: { CASH: 9994857 }.  Marked to market: 9994857
+Final relative surplus NoiseAgent 4762 -0.0005143
+Final holdings for NoiseAgent 4763: { ABM: -46, CASH: 14595676 }.  Marked to market: 9997792
+Final relative surplus NoiseAgent 4763 0.4595676
+Final holdings for NoiseAgent 4764: { ABM: 30, CASH: 7004170 }.  Marked to market: 10002550
+Final relative surplus NoiseAgent 4764 -0.299583
+Final holdings for NoiseAgent 4765: { ABM: -26, CASH: 12596386 }.  Marked to market: 10001768
+Final relative surplus NoiseAgent 4765 0.2596386
+Final holdings for NoiseAgent 4766: { ABM: 30, CASH: 7004170 }.  Marked to market: 9997960
+Final relative surplus NoiseAgent 4766 -0.299583
+Final holdings for NoiseAgent 4767: { ABM: -94, CASH: 19377393 }.  Marked to market: 10009541
+Final relative surplus NoiseAgent 4767 0.92777345
+Final holdings for NoiseAgent 4768: { CASH: 10008052 }.  Marked to market: 10008052
+Final relative surplus NoiseAgent 4768 0.0008052
+Final holdings for NoiseAgent 4769: { ABM: 41, CASH: 5905699 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4769 -0.4094301
+Final holdings for NoiseAgent 4770: { ABM: 48, CASH: 5206672 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4770 -0.4793328
+Final holdings for NoiseAgent 4771: { CASH: 10000598 }.  Marked to market: 10000598
+Final relative surplus NoiseAgent 4771 5.98e-05
+Final holdings for NoiseAgent 4772: { CASH: 10003036 }.  Marked to market: 10003036
+Final relative surplus NoiseAgent 4772 0.0003036
+Final holdings for NoiseAgent 4773: { ABM: 42, CASH: 5805838 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4773 -0.4194162
+Final holdings for NoiseAgent 4774: { ABM: -49, CASH: 14893189 }.  Marked to market: 10003332
+Final relative surplus NoiseAgent 4774 0.4893189
+Final holdings for NoiseAgent 4775: { ABM: -25, CASH: 12496525 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4775 0.2496525
+Final holdings for NoiseAgent 4776: { ABM: 96, CASH: 412576 }.  Marked to market: 10000672
+Final relative surplus NoiseAgent 4776 -0.94875475
+Final holdings for NoiseAgent 4777: { ABM: 47, CASH: 5300846 }.  Marked to market: 9998308
+Final relative surplus NoiseAgent 4777 -0.4699154
+Final holdings for NoiseAgent 4778: { CASH: 10007875 }.  Marked to market: 10007875
+Final relative surplus NoiseAgent 4778 0.0007875
+Final holdings for NoiseAgent 4779: { ABM: -38, CASH: 13794718 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4779 0.3794718
+Final holdings for NoiseAgent 4780: { CASH: 10017179 }.  Marked to market: 10017179
+Final relative surplus NoiseAgent 4780 0.0017179
+Final holdings for NoiseAgent 4781: { ABM: 27, CASH: 7301458 }.  Marked to market: 9997705
+Final relative surplus NoiseAgent 4781 -0.2698542
+Final holdings for NoiseAgent 4782: { ABM: 52, CASH: 4806968 }.  Marked to market: 10000208
+Final relative surplus NoiseAgent 4782 -0.50931615
+Final holdings for NoiseAgent 4783: { CASH: 9993893 }.  Marked to market: 9993893
+Final relative surplus NoiseAgent 4783 -0.0006107
+Final holdings for NoiseAgent 4784: { ABM: -35, CASH: 13487155 }.  Marked to market: 9999965
+Final relative surplus NoiseAgent 4784 0.3487155
+Final holdings for NoiseAgent 4785: { ABM: -40, CASH: 13997840 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4785 0.399784
+Final holdings for NoiseAgent 4786: { ABM: -46, CASH: 14593606 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4786 0.4593606
+Final holdings for NoiseAgent 4787: { CASH: 9977560 }.  Marked to market: 9977560
+Final relative surplus NoiseAgent 4787 -0.002244
+Final holdings for NoiseAgent 4788: { ABM: -49, CASH: 14897354 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4788 0.4897354
+Final holdings for NoiseAgent 4789: { CASH: 10009912 }.  Marked to market: 10009912
+Final relative surplus NoiseAgent 4789 0.0009912
+Final holdings for NoiseAgent 4790: { ABM: -38, CASH: 13794718 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4790 0.3794718
+Final holdings for NoiseAgent 4791: { ABM: 26, CASH: 7401404 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4791 -0.2598596
+Final holdings for NoiseAgent 4792: { CASH: 9992292 }.  Marked to market: 9992292
+Final relative surplus NoiseAgent 4792 -0.0007708
+Final holdings for NoiseAgent 4793: { ABM: -38, CASH: 13794718 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4793 0.3794718
+Final holdings for NoiseAgent 4794: { ABM: 62, CASH: 3808897 }.  Marked to market: 9999721
+Final relative surplus NoiseAgent 4794 -0.60912515
+Final holdings for NoiseAgent 4795: { ABM: 76, CASH: 2414782 }.  Marked to market: 9989094
+Final relative surplus NoiseAgent 4795 -0.74855545
+Final holdings for NoiseAgent 4796: { ABM: 29, CASH: 7101566 }.  Marked to market: 9997535
+Final relative surplus NoiseAgent 4796 -0.2898434
+Final holdings for NoiseAgent 4797: { CASH: 9997102 }.  Marked to market: 9997102
+Final relative surplus NoiseAgent 4797 -0.0002898
+Final holdings for NoiseAgent 4798: { ABM: -39, CASH: 13897894 }.  Marked to market: 10003315
+Final relative surplus NoiseAgent 4798 0.3897894
+Final holdings for NoiseAgent 4799: { ABM: 35, CASH: 6501890 }.  Marked to market: 9997025
+Final relative surplus NoiseAgent 4799 -0.349811
+Final holdings for NoiseAgent 4800: { ABM: 33, CASH: 6704587 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4800 -0.3295413
+Final holdings for NoiseAgent 4801: { ABM: 20, CASH: 8002780 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4801 -0.199722
+Final holdings for NoiseAgent 4802: { CASH: 9999415 }.  Marked to market: 9999415
+Final relative surplus NoiseAgent 4802 -5.85e-05
+Final holdings for NoiseAgent 4803: { ABM: 24, CASH: 7603336 }.  Marked to market: 9998368
+Final relative surplus NoiseAgent 4803 -0.2396664
+Final holdings for NoiseAgent 4804: { CASH: 9991210 }.  Marked to market: 9991210
+Final relative surplus NoiseAgent 4804 -0.000879
+Final holdings for NoiseAgent 4805: { ABM: -35, CASH: 13498110 }.  Marked to market: 10002975
+Final relative surplus NoiseAgent 4805 0.349811
+Final holdings for NoiseAgent 4806: { CASH: 10004788 }.  Marked to market: 10004788
+Final relative surplus NoiseAgent 4806 0.0004788
+Final holdings for NoiseAgent 4807: { ABM: -80, CASH: 17986720 }.  Marked to market: 10008960
+Final relative surplus NoiseAgent 4807 0.78869975
+Final holdings for NoiseAgent 4808: { ABM: 35, CASH: 6504865 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4808 -0.3495135
+Final holdings for NoiseAgent 4809: { ABM: 48, CASH: 5206672 }.  Marked to market: 9996736
+Final relative surplus NoiseAgent 4809 -0.4793328
+Final holdings for NoiseAgent 4810: { ABM: -26, CASH: 12598596 }.  Marked to market: 10002210
+Final relative surplus NoiseAgent 4810 0.2598596
+Final holdings for NoiseAgent 4811: { ABM: 43, CASH: 5708901 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4811 -0.4291099
+Final holdings for NoiseAgent 4812: { ABM: -96, CASH: 19567600 }.  Marked to market: 10030672
+Final relative surplus NoiseAgent 4812 0.94682565
+Final holdings for NoiseAgent 4813: { ABM: -68, CASH: 16788576 }.  Marked to market: 10001972
+Final relative surplus NoiseAgent 4813 0.66887725
+Final holdings for NoiseAgent 4814: { ABM: -22, CASH: 12196942 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4814 0.2196942
+Final holdings for NoiseAgent 4815: { CASH: 10000000 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4815 0.0
+Final holdings for NoiseAgent 4816: { ABM: -49, CASH: 14893189 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4816 0.4893189
+Final holdings for NoiseAgent 4817: { ABM: 23, CASH: 7701242 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4817 -0.2298758
+Final holdings for NoiseAgent 4818: { ABM: -43, CASH: 14297678 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4818 0.4297678
+Final holdings for NoiseAgent 4819: { ABM: 30, CASH: 7004170 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4819 -0.299583
+Final holdings for NoiseAgent 4820: { CASH: 9994496 }.  Marked to market: 9994496
+Final relative surplus NoiseAgent 4820 -0.0005504
+Final holdings for NoiseAgent 4821: { ABM: -31, CASH: 13095691 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4821 0.3095691
+Final holdings for NoiseAgent 4822: { ABM: 76, CASH: 2410982 }.  Marked to market: 9999582
+Final relative surplus NoiseAgent 4822 -0.74891685
+Final holdings for NoiseAgent 4823: { ABM: -62, CASH: 16186114 }.  Marked to market: 10008434
+Final relative surplus NoiseAgent 4823 0.6086475
+Final holdings for NoiseAgent 4824: { ABM: 36, CASH: 6405004 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4824 -0.3594996
+Final holdings for NoiseAgent 4825: { ABM: 34, CASH: 6604726 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4825 -0.3395274
+Final holdings for NoiseAgent 4826: { ABM: -37, CASH: 13698002 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4826 0.3698002
+Final holdings for NoiseAgent 4827: { CASH: 10006670 }.  Marked to market: 10006670
+Final relative surplus NoiseAgent 4827 0.000667
+Final holdings for NoiseAgent 4828: { CASH: 10004026 }.  Marked to market: 10004026
+Final relative surplus NoiseAgent 4828 0.0004026
+Final holdings for NoiseAgent 4829: { ABM: -39, CASH: 13897894 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4829 0.3897894
+Final holdings for NoiseAgent 4830: { ABM: -34, CASH: 13395274 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4830 0.3395274
+Final holdings for NoiseAgent 4831: { ABM: 31, CASH: 6901674 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4831 -0.3098326
+Final holdings for NoiseAgent 4832: { CASH: 9981722 }.  Marked to market: 9981722
+Final relative surplus NoiseAgent 4832 -0.0018278
+Final holdings for NoiseAgent 4833: { CASH: 9998960 }.  Marked to market: 9998960
+Final relative surplus NoiseAgent 4833 -0.000104
+Final holdings for NoiseAgent 4834: { ABM: 74, CASH: 2601998 }.  Marked to market: 10008288
+Final relative surplus NoiseAgent 4834 -0.72979175
+Final holdings for NoiseAgent 4835: { ABM: 27, CASH: 7301458 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4835 -0.2698542
+Final holdings for NoiseAgent 4836: { ABM: 20, CASH: 8002780 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4836 -0.199722
+Final holdings for NoiseAgent 4837: { ABM: 35, CASH: 6507560 }.  Marked to market: 9999965
+Final relative surplus NoiseAgent 4837 -0.349244
+Final holdings for NoiseAgent 4838: { ABM: -39, CASH: 13897894 }.  Marked to market: 10003315
+Final relative surplus NoiseAgent 4838 0.3897894
+Final holdings for NoiseAgent 4839: { ABM: 42, CASH: 5802268 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4839 -0.4197732
+Final holdings for NoiseAgent 4840: { ABM: -25, CASH: 12496525 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4840 0.2496525
+Final holdings for NoiseAgent 4841: { ABM: 74, CASH: 2626344 }.  Marked to market: 9977578
+Final relative surplus NoiseAgent 4841 -0.72743145
+Final holdings for NoiseAgent 4842: { ABM: -98, CASH: 19776725 }.  Marked to market: 10009555
+Final relative surplus NoiseAgent 4842 0.96770605
+Final holdings for NoiseAgent 4843: { ABM: -44, CASH: 14397624 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4843 0.4397624
+Final holdings for NoiseAgent 4844: { ABM: 35, CASH: 6507245 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4844 -0.3492755
+Final holdings for NoiseAgent 4845: { CASH: 10000440 }.  Marked to market: 10000440
+Final relative surplus NoiseAgent 4845 4.4e-05
+Final holdings for NoiseAgent 4846: { ABM: -62, CASH: 16188127 }.  Marked to market: 10008525
+Final relative surplus NoiseAgent 4846 0.60884555
+Final holdings for NoiseAgent 4847: { ABM: -25, CASH: 12496525 }.  Marked to market: 10001700
+Final relative surplus NoiseAgent 4847 0.2496525
+Final holdings for NoiseAgent 4848: { ABM: -32, CASH: 13198272 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4848 0.3198272
+Final holdings for NoiseAgent 4849: { ABM: -47, CASH: 14693467 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4849 0.4693467
+Final holdings for NoiseAgent 4850: { ABM: 36, CASH: 6405004 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4850 -0.3594996
+Final holdings for NoiseAgent 4851: { ABM: 45, CASH: 5509315 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4851 -0.4490685
+Final holdings for NoiseAgent 4852: { ABM: -35, CASH: 13495135 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4852 0.3495135
+Final holdings for NoiseAgent 4853: { ABM: -45, CASH: 14493745 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4853 0.4493745
+Final holdings for NoiseAgent 4854: { ABM: 62, CASH: 3808959 }.  Marked to market: 9999659
+Final relative surplus NoiseAgent 4854 -0.60911915
+Final holdings for NoiseAgent 4855: { ABM: -38, CASH: 13794718 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4855 0.3794718
+Final holdings for NoiseAgent 4856: { ABM: -58, CASH: 15794490 }.  Marked to market: 9997564
+Final relative surplus NoiseAgent 4856 0.56945405
+Final holdings for NoiseAgent 4857: { ABM: 25, CASH: 7503475 }.  Marked to market: 9998300
+Final relative surplus NoiseAgent 4857 -0.2496525
+Final holdings for NoiseAgent 4858: { ABM: 29, CASH: 7100522 }.  Marked to market: 9998028
+Final relative surplus NoiseAgent 4858 -0.2899478
+Final holdings for NoiseAgent 4859: { ABM: 72, CASH: 2805544 }.  Marked to market: 10004464
+Final relative surplus NoiseAgent 4859 -0.70944715
+Final holdings for NoiseAgent 4860: { ABM: 21, CASH: 7901134 }.  Marked to market: 9998215
+Final relative surplus NoiseAgent 4860 -0.2098866
+Final holdings for NoiseAgent 4861: { ABM: 36, CASH: 6401944 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4861 -0.3598056
+Final holdings for NoiseAgent 4862: { ABM: -38, CASH: 13794718 }.  Marked to market: 10002584
+Final relative surplus NoiseAgent 4862 0.3794718
+Final holdings for NoiseAgent 4863: { CASH: 9995505 }.  Marked to market: 9995505
+Final relative surplus NoiseAgent 4863 -0.0004495
+Final holdings for NoiseAgent 4864: { CASH: 9999795 }.  Marked to market: 9999795
+Final relative surplus NoiseAgent 4864 -2.05e-05
+Final holdings for NoiseAgent 4865: { CASH: 9995856 }.  Marked to market: 9995856
+Final relative surplus NoiseAgent 4865 -0.0004144
+Final holdings for NoiseAgent 4866: { ABM: 47, CASH: 5306533 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4866 -0.4693467
+Final holdings for NoiseAgent 4867: { ABM: 39, CASH: 6105421 }.  Marked to market: 10003315
+Final relative surplus NoiseAgent 4867 -0.3894579
+Final holdings for NoiseAgent 4868: { ABM: -98, CASH: 19777068 }.  Marked to market: 10017346
+Final relative surplus NoiseAgent 4868 0.96774805
+Final holdings for NoiseAgent 4869: { ABM: -31, CASH: 13095691 }.  Marked to market: 10002108
+Final relative surplus NoiseAgent 4869 0.3095691
+Final holdings for NoiseAgent 4870: { ABM: 90, CASH: 1017055 }.  Marked to market: 9987355
+Final relative surplus NoiseAgent 4870 -0.88832705
+Final holdings for NoiseAgent 4871: { ABM: 26, CASH: 7403614 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4871 -0.2596386
+Final holdings for NoiseAgent 4872: { ABM: 36, CASH: 6401944 }.  Marked to market: 9996940
+Final relative surplus NoiseAgent 4872 -0.3598056
+Final holdings for NoiseAgent 4873: { ABM: -28, CASH: 12796108 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4873 0.2796108
+Final holdings for NoiseAgent 4874: { CASH: 10009744 }.  Marked to market: 10009744
+Final relative surplus NoiseAgent 4874 0.0009744
+Final holdings for NoiseAgent 4875: { ABM: -90, CASH: 18996850 }.  Marked to market: 9998200
+Final relative surplus NoiseAgent 4875 0.88968655
+Final holdings for NoiseAgent 4876: { ABM: -66, CASH: 16588846 }.  Marked to market: 10001980
+Final relative surplus NoiseAgent 4876 0.64890445
+Final holdings for NoiseAgent 4877: { ABM: 35, CASH: 6504865 }.  Marked to market: 9997620
+Final relative surplus NoiseAgent 4877 -0.3495135
+Final holdings for NoiseAgent 4878: { ABM: 42, CASH: 5805838 }.  Marked to market: 9999706
+Final relative surplus NoiseAgent 4878 -0.4194162
+Final holdings for NoiseAgent 4879: { ABM: 28, CASH: 7203892 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4879 -0.2796108
+Final holdings for NoiseAgent 4880: { ABM: 41, CASH: 5902214 }.  Marked to market: 9993727
+Final relative surplus NoiseAgent 4880 -0.4097786
+Final holdings for NoiseAgent 4881: { ABM: 26, CASH: 7403614 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4881 -0.2596386
+Final holdings for NoiseAgent 4882: { ABM: -44, CASH: 14393884 }.  Marked to market: 10002992
+Final relative surplus NoiseAgent 4882 0.4393884
+Final holdings for NoiseAgent 4883: { ABM: -30, CASH: 12998380 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4883 0.299838
+Final holdings for NoiseAgent 4884: { CASH: 10002040 }.  Marked to market: 10002040
+Final relative surplus NoiseAgent 4884 0.000204
+Final holdings for NoiseAgent 4885: { ABM: -32, CASH: 13198272 }.  Marked to market: 10002720
+Final relative surplus NoiseAgent 4885 0.3198272
+Final holdings for NoiseAgent 4886: { ABM: -78, CASH: 17789314 }.  Marked to market: 9999688
+Final relative surplus NoiseAgent 4886 0.7689448
+Final holdings for NoiseAgent 4887: { CASH: 10000696 }.  Marked to market: 10000696
+Final relative surplus NoiseAgent 4887 6.96e-05
+Final holdings for NoiseAgent 4888: { ABM: 76, CASH: 2409994 }.  Marked to market: 10000494
+Final relative surplus NoiseAgent 4888 -0.74901305
+Final holdings for NoiseAgent 4889: { ABM: 21, CASH: 7902919 }.  Marked to market: 10001785
+Final relative surplus NoiseAgent 4889 -0.2097081
+Final holdings for NoiseAgent 4890: { ABM: 25, CASH: 7501350 }.  Marked to market: 9997875
+Final relative surplus NoiseAgent 4890 -0.249865
+Final holdings for NoiseAgent 4891: { ABM: 48, CASH: 5202592 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4891 -0.4797408
+Final holdings for NoiseAgent 4892: { ABM: -24, CASH: 12396664 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4892 0.2396664
+Final holdings for NoiseAgent 4893: { CASH: 9999398 }.  Marked to market: 9999398
+Final relative surplus NoiseAgent 4893 -6.02e-05
+Final holdings for NoiseAgent 4894: { ABM: -30, CASH: 12995140 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4894 0.299514
+Final holdings for NoiseAgent 4895: { ABM: -21, CASH: 12097081 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4895 0.2097081
+Final holdings for NoiseAgent 4896: { ABM: 90, CASH: 1035550 }.  Marked to market: 9976870
+Final relative surplus NoiseAgent 4896 -0.88651015
+Final holdings for NoiseAgent 4897: { CASH: 9997795 }.  Marked to market: 9997795
+Final relative surplus NoiseAgent 4897 -0.0002205
+Final holdings for NoiseAgent 4898: { ABM: -74, CASH: 17398113 }.  Marked to market: 9991601
+Final relative surplus NoiseAgent 4898 0.72980245
+Final holdings for NoiseAgent 4899: { CASH: 10008145 }.  Marked to market: 10008145
+Final relative surplus NoiseAgent 4899 0.0008145
+Final holdings for NoiseAgent 4900: { ABM: -33, CASH: 13297028 }.  Marked to market: 10001615
+Final relative surplus NoiseAgent 4900 0.3297028
+Final holdings for NoiseAgent 4901: { ABM: -48, CASH: 14799136 }.  Marked to market: 10003168
+Final relative surplus NoiseAgent 4901 0.4799136
+Final holdings for NoiseAgent 4902: { ABM: -26, CASH: 12596386 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4902 0.2596386
+Final holdings for NoiseAgent 4903: { ABM: -23, CASH: 12296803 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4903 0.2296803
+Final holdings for NoiseAgent 4904: { ABM: -29, CASH: 12898434 }.  Marked to market: 10003161
+Final relative surplus NoiseAgent 4904 0.2898434
+Final holdings for NoiseAgent 4905: { CASH: 9990616 }.  Marked to market: 9990616
+Final relative surplus NoiseAgent 4905 -0.0009384
+Final holdings for NoiseAgent 4906: { ABM: 26, CASH: 7405382 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4906 -0.2594618
+Final holdings for NoiseAgent 4907: { ABM: 27, CASH: 7303753 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4907 -0.2696247
+Final holdings for NoiseAgent 4908: { ABM: -34, CASH: 13395274 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4908 0.3395274
+Final holdings for NoiseAgent 4909: { ABM: -41, CASH: 14094301 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4909 0.4094301
+Final holdings for NoiseAgent 4910: { ABM: -23, CASH: 12296803 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4910 0.2296803
+Final holdings for NoiseAgent 4911: { ABM: 46, CASH: 5406394 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4911 -0.4593606
+Final holdings for NoiseAgent 4912: { ABM: 23, CASH: 7703197 }.  Marked to market: 9998436
+Final relative surplus NoiseAgent 4912 -0.2296803
+Final holdings for NoiseAgent 4913: { ABM: 43, CASH: 5705977 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4913 -0.4294023
+Final holdings for NoiseAgent 4914: { ABM: 35, CASH: 6501890 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4914 -0.349811
+Final holdings for NoiseAgent 4915: { ABM: 22, CASH: 7803058 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4915 -0.2196942
+Final holdings for NoiseAgent 4916: { CASH: 10000000 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4916 0.0
+Final holdings for NoiseAgent 4917: { ABM: -34, CASH: 13395274 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4917 0.3395274
+Final holdings for NoiseAgent 4918: { ABM: -34, CASH: 13395274 }.  Marked to market: 10002312
+Final relative surplus NoiseAgent 4918 0.3395274
+Final holdings for NoiseAgent 4919: { ABM: -21, CASH: 12098866 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4919 0.2098866
+Final holdings for NoiseAgent 4920: { ABM: 22, CASH: 7803058 }.  Marked to market: 9998504
+Final relative surplus NoiseAgent 4920 -0.2196942
+Final holdings for NoiseAgent 4921: { ABM: -39, CASH: 13897894 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4921 0.3897894
+Final holdings for NoiseAgent 4922: { ABM: 49, CASH: 5106811 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4922 -0.4893189
+Final holdings for NoiseAgent 4923: { ABM: -25, CASH: 12498650 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4923 0.249865
+Final holdings for NoiseAgent 4924: { ABM: 35, CASH: 6504865 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4924 -0.3495135
+Final holdings for NoiseAgent 4925: { ABM: 47, CASH: 5306533 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4925 -0.4693467
+Final holdings for NoiseAgent 4926: { ABM: 25, CASH: 7503475 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4926 -0.2496525
+Final holdings for NoiseAgent 4927: { ABM: 76, CASH: 2410640 }.  Marked to market: 9999848
+Final relative surplus NoiseAgent 4927 -0.74895015
+Final holdings for NoiseAgent 4928: { ABM: -41, CASH: 14099262 }.  Marked to market: 10001476
+Final relative surplus NoiseAgent 4928 0.4099262
+Final holdings for NoiseAgent 4929: { ABM: 20, CASH: 8003220 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4929 -0.199678
+Final holdings for NoiseAgent 4930: { ABM: -50, CASH: 14988925 }.  Marked to market: 10004075
+Final relative surplus NoiseAgent 4930 0.4988925
+Final holdings for NoiseAgent 4931: { ABM: 20, CASH: 8004140 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4931 -0.199586
+Final holdings for NoiseAgent 4932: { ABM: -41, CASH: 14094301 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4932 0.4094301
+Final holdings for NoiseAgent 4933: { ABM: 31, CASH: 6901674 }.  Marked to market: 9997365
+Final relative surplus NoiseAgent 4933 -0.3098326
+Final holdings for NoiseAgent 4934: { CASH: 10006109 }.  Marked to market: 10006109
+Final relative surplus NoiseAgent 4934 0.0006109
+Final holdings for NoiseAgent 4935: { ABM: -72, CASH: 17196508 }.  Marked to market: 9993484
+Final relative surplus NoiseAgent 4935 0.70964655
+Final holdings for NoiseAgent 4936: { ABM: 22, CASH: 7803058 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4936 -0.2196942
+Final holdings for NoiseAgent 4937: { CASH: 10000000 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4937 0.0
+Final holdings for NoiseAgent 4938: { CASH: 9999913 }.  Marked to market: 9999913
+Final relative surplus NoiseAgent 4938 -8.7e-06
+Final holdings for NoiseAgent 4939: { ABM: 38, CASH: 6202052 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4939 -0.3797948
+Final holdings for NoiseAgent 4940: { ABM: -43, CASH: 14294023 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4940 0.4294023
+Final holdings for NoiseAgent 4941: { CASH: 9997700 }.  Marked to market: 9997700
+Final relative surplus NoiseAgent 4941 -0.00023
+Final holdings for NoiseAgent 4942: { ABM: -45, CASH: 14497570 }.  Marked to market: 10003825
+Final relative surplus NoiseAgent 4942 0.449757
+Final holdings for NoiseAgent 4943: { ABM: 49, CASH: 5106811 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4943 -0.4893189
+Final holdings for NoiseAgent 4944: { ABM: 41, CASH: 5905699 }.  Marked to market: 9997212
+Final relative surplus NoiseAgent 4944 -0.4094301
+Final holdings for NoiseAgent 4945: { ABM: -46, CASH: 14585004 }.  Marked to market: 10008556
+Final relative surplus NoiseAgent 4945 0.4585004
+Final holdings for NoiseAgent 4946: { ABM: 64, CASH: 3603936 }.  Marked to market: 10004960
+Final relative surplus NoiseAgent 4946 -0.62960485
+Final holdings for NoiseAgent 4947: { ABM: 35, CASH: 6504865 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4947 -0.3495135
+Final holdings for NoiseAgent 4948: { ABM: 37, CASH: 6301998 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4948 -0.3698002
+Final holdings for NoiseAgent 4949: { ABM: -38, CASH: 13797948 }.  Marked to market: 10003230
+Final relative surplus NoiseAgent 4949 0.3797948
+Final holdings for NoiseAgent 4950: { ABM: 98, CASH: 214357 }.  Marked to market: 9999167
+Final relative surplus NoiseAgent 4950 -0.96857975
+Final holdings for NoiseAgent 4951: { ABM: 40, CASH: 6005560 }.  Marked to market: 9997280
+Final relative surplus NoiseAgent 4951 -0.399444
+Final holdings for NoiseAgent 4952: { ABM: 24, CASH: 7602571 }.  Marked to market: 9999235
+Final relative surplus NoiseAgent 4952 -0.2397429
+Final holdings for NoiseAgent 4953: { ABM: -82, CASH: 18185527 }.  Marked to market: 10002993
+Final relative surplus NoiseAgent 4953 0.80857405
+Final holdings for NoiseAgent 4954: { ABM: -96, CASH: 19592608 }.  Marked to market: 10002208
+Final relative surplus NoiseAgent 4954 0.94927075
+Final holdings for NoiseAgent 4955: { ABM: 35, CASH: 6504865 }.  Marked to market: 10002345
+Final relative surplus NoiseAgent 4955 -0.3495135
+Final holdings for NoiseAgent 4956: { ABM: -88, CASH: 18773248 }.  Marked to market: 10014432
+Final relative surplus NoiseAgent 4956 0.86737165
+Final holdings for NoiseAgent 4957: { ABM: -44, CASH: 14393884 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4957 0.4393884
+Final holdings for NoiseAgent 4958: { ABM: -39, CASH: 13897894 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4958 0.3897894
+Final holdings for NoiseAgent 4959: { ABM: 48, CASH: 5206672 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4959 -0.4793328
+Final holdings for NoiseAgent 4960: { CASH: 9997377 }.  Marked to market: 9997377
+Final relative surplus NoiseAgent 4960 -0.0002623
+Final holdings for NoiseAgent 4961: { ABM: 90, CASH: 1009315 }.  Marked to market: 9995455
+Final relative surplus NoiseAgent 4961 -0.88908385
+Final holdings for NoiseAgent 4962: { ABM: -96, CASH: 19568752 }.  Marked to market: 10017808
+Final relative surplus NoiseAgent 4962 0.94692635
+Final holdings for NoiseAgent 4963: { CASH: 10000000 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4963 0.0
+Final holdings for NoiseAgent 4964: { ABM: 25, CASH: 7500017 }.  Marked to market: 9991992
+Final relative surplus NoiseAgent 4964 -0.2499983
+Final holdings for NoiseAgent 4965: { ABM: 22, CASH: 7803058 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4965 -0.2196942
+Final holdings for NoiseAgent 4966: { CASH: 10010560 }.  Marked to market: 10010560
+Final relative surplus NoiseAgent 4966 0.001056
+Final holdings for NoiseAgent 4967: { ABM: -34, CASH: 13395274 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4967 0.3395274
+Final holdings for NoiseAgent 4968: { ABM: -22, CASH: 12196788 }.  Marked to market: 10001342
+Final relative surplus NoiseAgent 4968 0.2196788
+Final holdings for NoiseAgent 4969: { ABM: -35, CASH: 13498110 }.  Marked to market: 10002975
+Final relative surplus NoiseAgent 4969 0.349811
+Final holdings for NoiseAgent 4970: { ABM: 45, CASH: 5506255 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4970 -0.4493745
+Final holdings for NoiseAgent 4971: { ABM: -28, CASH: 12796108 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4971 0.2796108
+Final holdings for NoiseAgent 4972: { ABM: 96, CASH: 406384 }.  Marked to market: 10006672
+Final relative surplus NoiseAgent 4972 -0.94936105
+Final holdings for NoiseAgent 4973: { ABM: -23, CASH: 12296803 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4973 0.2296803
+Final holdings for NoiseAgent 4974: { ABM: 43, CASH: 5705977 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4974 -0.4294023
+Final holdings for NoiseAgent 4975: { ABM: 46, CASH: 5406394 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4975 -0.4593606
+Final holdings for NoiseAgent 4976: { ABM: -27, CASH: 12696247 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4976 0.2696247
+Final holdings for NoiseAgent 4977: { ABM: -43, CASH: 14294023 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4977 0.4294023
+Final holdings for NoiseAgent 4978: { ABM: -66, CASH: 16595512 }.  Marked to market: 9995248
+Final relative surplus NoiseAgent 4978 0.64955085
+Final holdings for NoiseAgent 4979: { ABM: 24, CASH: 7603336 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4979 -0.2396664
+Final holdings for NoiseAgent 4980: { ABM: 39, CASH: 6102106 }.  Marked to market: 9998791
+Final relative surplus NoiseAgent 4980 -0.3897894
+Final holdings for NoiseAgent 4981: { ABM: 25, CASH: 7503475 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4981 -0.2496525
+Final holdings for NoiseAgent 4982: { ABM: 40, CASH: 6014060 }.  Marked to market: 9988100
+Final relative surplus NoiseAgent 4982 -0.398594
+Final holdings for NoiseAgent 4983: { ABM: -25, CASH: 12496525 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4983 0.2496525
+Final holdings for NoiseAgent 4984: { ABM: 46, CASH: 5406394 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4984 -0.4593606
+Final holdings for NoiseAgent 4985: { ABM: -94, CASH: 19388626 }.  Marked to market: 9998308
+Final relative surplus NoiseAgent 4985 0.92887285
+Final holdings for NoiseAgent 4986: { ABM: -23, CASH: 12296803 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4986 0.2296803
+Final holdings for NoiseAgent 4987: { CASH: 10013975 }.  Marked to market: 10013975
+Final relative surplus NoiseAgent 4987 0.0013975
+Final holdings for NoiseAgent 4988: { CASH: 9999558 }.  Marked to market: 9999558
+Final relative surplus NoiseAgent 4988 -4.42e-05
+Final holdings for NoiseAgent 4989: { CASH: 9989864 }.  Marked to market: 9989864
+Final relative surplus NoiseAgent 4989 -0.0010136
+Final holdings for NoiseAgent 4990: { ABM: 27, CASH: 7300486 }.  Marked to market: 9999028
+Final relative surplus NoiseAgent 4990 -0.2699514
+Final holdings for NoiseAgent 4991: { ABM: 28, CASH: 7200280 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4991 -0.279972
+Final holdings for NoiseAgent 4992: { ABM: 21, CASH: 7910563 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4992 -0.2089437
+Final holdings for NoiseAgent 4993: { ABM: -43, CASH: 14294023 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4993 0.4294023
+Final holdings for NoiseAgent 4994: { ABM: 48, CASH: 5211376 }.  Marked to market: 9995296
+Final relative surplus NoiseAgent 4994 -0.4788624
+Final holdings for NoiseAgent 4995: { CASH: 9989154 }.  Marked to market: 9989154
+Final relative surplus NoiseAgent 4995 -0.0010846
+Final holdings for NoiseAgent 4996: { ABM: -31, CASH: 13095691 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4996 0.3095691
+Final holdings for NoiseAgent 4997: { ABM: -46, CASH: 14593606 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4997 0.4593606
+Final holdings for NoiseAgent 4998: { ABM: -31, CASH: 13098326 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 4998 0.3098326
+Final holdings for NoiseAgent 4999: { CASH: 9997556 }.  Marked to market: 9997556
+Final relative surplus NoiseAgent 4999 -0.0002444
+Final holdings for NoiseAgent 5000: { ABM: 35, CASH: 6504865 }.  Marked to market: 10000000
+Final relative surplus NoiseAgent 5000 -0.3495135
+Final holdings for Value Agent 5001: { ABM: 164, CASH: -6579523 }.  Marked to market: 9757829
+Final holdings for Value Agent 5002: { ABM: 1243, CASH: -114048581 }.  Marked to market: 9776593
+Final holdings for Value Agent 5003: { ABM: 542, CASH: -44298580 }.  Marked to market: 9694376
+Final holdings for Value Agent 5004: { ABM: -510, CASH: 60695724 }.  Marked to market: 9890544
+Final holdings for Value Agent 5005: { ABM: 435, CASH: -33324166 }.  Marked to market: 10009664
+Final holdings for Value Agent 5006: { ABM: -1104, CASH: 119795367 }.  Marked to market: 9817095
+Final holdings for Value Agent 5007: { ABM: -549, CASH: 64798328 }.  Marked to market: 10108046
+Final holdings for Value Agent 5008: { ABM: -743, CASH: 84143490 }.  Marked to market: 10127316
+Final holdings for Value Agent 5009: { ABM: -159, CASH: 25701221 }.  Marked to market: 9862436
+Final holdings for Value Agent 5010: { ABM: -157, CASH: 25769514 }.  Marked to market: 10129488
+Final holdings for Value Agent 5011: { ABM: 228, CASH: -12681072 }.  Marked to market: 10031832
+Final holdings for Value Agent 5012: { ABM: -683, CASH: 78340314 }.  Marked to market: 10301220
+Final holdings for Value Agent 5013: { ABM: -154, CASH: 25352822 }.  Marked to market: 10011650
+Final holdings for Value Agent 5014: { ABM: -504, CASH: 60153434 }.  Marked to market: 9945962
+Final holdings for Value Agent 5015: { ABM: -628, CASH: 72654942 }.  Marked to market: 10094838
+Final holdings for Value Agent 5016: { ABM: 4, CASH: 9826095 }.  Marked to market: 10224567
+Final holdings for Value Agent 5017: { ABM: -341, CASH: 44026785 }.  Marked to market: 10057047
+Final holdings for Value Agent 5018: { ABM: -66, CASH: 16716419 }.  Marked to market: 10141631
+Final holdings for Value Agent 5019: { ABM: -312, CASH: 41260576 }.  Marked to market: 10179760
+Final holdings for Value Agent 5020: { ABM: 523, CASH: -42065430 }.  Marked to market: 10034784
+Final holdings for Value Agent 5021: { ABM: 37, CASH: 6352623 }.  Marked to market: 10038489
+Final holdings for Value Agent 5022: { ABM: -167, CASH: 26633208 }.  Marked to market: 9997002
+Final holdings for Value Agent 5023: { ABM: -247, CASH: 34533418 }.  Marked to market: 9927772
+Final holdings for Value Agent 5024: { ABM: 628, CASH: -52822774 }.  Marked to market: 9737330
+Final holdings for Value Agent 5025: { ABM: -1175, CASH: 127007230 }.  Marked to market: 9956080
+Final holdings for Value Agent 5026: { ABM: -242, CASH: 34079681 }.  Marked to market: 9972125
+Final holdings for Value Agent 5027: { ABM: 77, CASH: 2414853 }.  Marked to market: 10085439
+Final holdings for Value Agent 5028: { ABM: -413, CASH: 51370452 }.  Marked to market: 10228218
+Final holdings for Value Agent 5029: { ABM: -530, CASH: 62784266 }.  Marked to market: 9986726
+Final holdings for Value Agent 5030: { ABM: 93, CASH: 821816 }.  Marked to market: 10086290
+Final holdings for Value Agent 5031: { ABM: 489, CASH: -38551270 }.  Marked to market: 10161932
+Final holdings for Value Agent 5032: { ABM: -170, CASH: 26929111 }.  Marked to market: 9994051
+Final holdings for Value Agent 5033: { ABM: -1069, CASH: 116418115 }.  Marked to market: 9926473
+Final holdings for Value Agent 5034: { ABM: -560, CASH: 65798660 }.  Marked to market: 10012580
+Final holdings for Value Agent 5035: { ABM: -232, CASH: 33119294 }.  Marked to market: 10007918
+Final holdings for Value Agent 5036: { ABM: 46, CASH: 5143862 }.  Marked to market: 9726290
+Final holdings for Value Agent 5037: { ABM: -840, CASH: 93973006 }.  Marked to market: 10293886
+Final holdings for Value Agent 5038: { ABM: 228, CASH: -12972949 }.  Marked to market: 9739955
+Final holdings for Value Agent 5039: { ABM: 947, CASH: -84426447 }.  Marked to market: 9911799
+Final holdings for Value Agent 5040: { ABM: 906, CASH: -80421337 }.  Marked to market: 9832571
+Final holdings for Value Agent 5041: { ABM: -159, CASH: 25954781 }.  Marked to market: 10115519
+Final holdings for Value Agent 5042: { ABM: 906, CASH: -80349868 }.  Marked to market: 9904040
+Final holdings for Value Agent 5043: { ABM: 114, CASH: -1311981 }.  Marked to market: 10044471
+Final holdings for Value Agent 5044: { ABM: 92, CASH: 868298 }.  Marked to market: 10033154
+Final holdings for Value Agent 5045: { ABM: -321, CASH: 42206923 }.  Marked to market: 10229545
+Final holdings for Value Agent 5046: { ABM: 298, CASH: -19455646 }.  Marked to market: 10230518
+Final holdings for Value Agent 5047: { ABM: -600, CASH: 69799579 }.  Marked to market: 10028779
+Final holdings for Value Agent 5048: { ABM: -324, CASH: 42203213 }.  Marked to market: 9926981
+Final holdings for Value Agent 5049: { ABM: 970, CASH: -86899044 }.  Marked to market: 9730416
+Final holdings for Value Agent 5050: { ABM: 286, CASH: -18342760 }.  Marked to market: 10147988
+Final holdings for Value Agent 5051: { ABM: -43, CASH: 14192505 }.  Marked to market: 9909017
+Final holdings for Value Agent 5052: { ABM: -186, CASH: 28656175 }.  Marked to market: 10127227
+Final holdings for Value Agent 5053: { ABM: -313, CASH: 41054552 }.  Marked to market: 9874118
+Final holdings for Value Agent 5054: { ABM: 856, CASH: -75132066 }.  Marked to market: 10140942
+Final holdings for Value Agent 5055: { ABM: -112, CASH: 20970584 }.  Marked to market: 9813368
+Final holdings for Value Agent 5056: { ABM: 258, CASH: -15821424 }.  Marked to market: 9880020
+Final holdings for Value Agent 5057: { ABM: -521, CASH: 61876026 }.  Marked to market: 9975048
+Final holdings for Value Agent 5058: { ABM: 460, CASH: -35854376 }.  Marked to market: 9969904
+Final holdings for Value Agent 5059: { ABM: -949, CASH: 104586835 }.  Marked to market: 10049353
+Final holdings for Value Agent 5060: { ABM: 664, CASH: -55871231 }.  Marked to market: 10275121
+Final holdings for Value Agent 5061: { ABM: 6, CASH: 9301924 }.  Marked to market: 9899632
+Final holdings for Value Agent 5062: { ABM: 115, CASH: -1653381 }.  Marked to market: 9802689
+Final holdings for Value Agent 5063: { ABM: 342, CASH: -24295225 }.  Marked to market: 9774131
+Final holdings for Value Agent 5064: { ABM: 798, CASH: -69476797 }.  Marked to market: 10018367
+Final holdings for Value Agent 5065: { ABM: -602, CASH: 69858631 }.  Marked to market: 9888595
+Final holdings for Value Agent 5066: { ABM: -103, CASH: 20446922 }.  Marked to market: 10186268
+Final holdings for Value Agent 5067: { ABM: -257, CASH: 35486297 }.  Marked to market: 9884471
+Final holdings for Value Agent 5068: { ABM: 633, CASH: -53146201 }.  Marked to market: 9911993
+Final holdings for Value Agent 5069: { ABM: -1104, CASH: 120165553 }.  Marked to market: 10187281
+Final holdings for Value Agent 5070: { ABM: -395, CASH: 49346788 }.  Marked to market: 9997678
+Final holdings for Value Agent 5071: { ABM: -851, CASH: 95050882 }.  Marked to market: 10275964
+Final holdings for Value Agent 5072: { ABM: 1840, CASH: -173441359 }.  Marked to market: 9855761
+Final holdings for Value Agent 5073: { ABM: 666, CASH: -56222603 }.  Marked to market: 10122985
+Final holdings for Value Agent 5074: { ABM: 49, CASH: 5248772 }.  Marked to market: 10129956
+Final holdings for Value Agent 5075: { ABM: 530, CASH: -42719750 }.  Marked to market: 10077790
+Final holdings for Value Agent 5076: { ABM: -48, CASH: 14761187 }.  Marked to market: 9979523
+Final holdings for Value Agent 5077: { ABM: 470, CASH: -36799031 }.  Marked to market: 10021429
+Final holdings for Value Agent 5078: { ABM: 166, CASH: -6567372 }.  Marked to market: 9969216
+Final holdings for Value Agent 5079: { ABM: -1414, CASH: 150968159 }.  Marked to market: 10105479
+Final holdings for Value Agent 5080: { ABM: 669, CASH: -56681887 }.  Marked to market: 9962555
+Final holdings for Value Agent 5081: { ABM: -106, CASH: 20563347 }.  Marked to market: 10003839
+Final holdings for Value Agent 5082: { ABM: -568, CASH: 66550472 }.  Marked to market: 9967448
+Final holdings for Value Agent 5083: { ABM: 848, CASH: -74516903 }.  Marked to market: 9959161
+Final holdings for Value Agent 5084: { ABM: -1340, CASH: 143614095 }.  Marked to market: 10125975
+Final holdings for MOMENTUM_AGENT_5105: { ABM: -618, CASH: 71652560 }.  Marked to market: 10088636
+Final holdings for MOMENTUM_AGENT_5106: { ABM: -604, CASH: 70252242 }.  Marked to market: 10082970
+Final holdings for MOMENTUM_AGENT_5107: { ABM: -509, CASH: 60773152 }.  Marked to market: 10067590
+Final holdings for MOMENTUM_AGENT_5108: { ABM: -225, CASH: 32445661 }.  Marked to market: 10031611
+Final holdings for MOMENTUM_AGENT_5109: { ABM: -435, CASH: 53391571 }.  Marked to market: 10057741
+Final holdings for MOMENTUM_AGENT_5110: { ABM: -300, CASH: 39926264 }.  Marked to market: 10040864
+Final holdings for MOMENTUM_AGENT_5111: { ABM: -295, CASH: 39425422 }.  Marked to market: 10038112
+Final holdings for MOMENTUM_AGENT_5112: { ABM: -150, CASH: 24963828 }.  Marked to market: 10021128
+Final holdings for MOMENTUM_AGENT_5113: { ABM: -693, CASH: 79134616 }.  Marked to market: 10099342
+Final holdings for MOMENTUM_AGENT_5114: { ABM: -375, CASH: 47407765 }.  Marked to market: 10051015
+Final holdings for MOMENTUM_AGENT_5115: { ABM: -616, CASH: 71450136 }.  Marked to market: 10085448
+Final holdings for MOMENTUM_AGENT_5116: { ABM: -607, CASH: 70551370 }.  Marked to market: 10083244
+Final holdings for MOMENTUM_AGENT_5117: { ABM: -77, CASH: 17681299 }.  Marked to market: 10010713
+Final holdings for MOMENTUM_AGENT_5118: { ABM: -677, CASH: 77535094 }.  Marked to market: 10093708
+Final holdings for MOMENTUM_AGENT_5119: { ABM: -226, CASH: 32545311 }.  Marked to market: 10031643
+Final holdings for MOMENTUM_AGENT_5120: { ABM: -300, CASH: 39926552 }.  Marked to market: 10041152
+Final holdings for MOMENTUM_AGENT_5121: { ABM: -153, CASH: 25262668 }.  Marked to market: 10021114
+Final holdings for MOMENTUM_AGENT_5122: { ABM: -683, CASH: 78133219 }.  Marked to market: 10094125
+Final holdings for MOMENTUM_AGENT_5123: { ABM: -669, CASH: 76738066 }.  Marked to market: 10093624
+Final holdings for MOMENTUM_AGENT_5124: { ABM: -450, CASH: 54891280 }.  Marked to market: 10063180
+Final holdings for MOMENTUM_AGENT_5125: { ABM: -467, CASH: 56585141 }.  Marked to market: 10063535
+Final holdings for MOMENTUM_AGENT_5126: { ABM: -292, CASH: 39127148 }.  Marked to market: 10038692
+Final holdings for MOMENTUM_AGENT_5127: { ABM: -438, CASH: 53690476 }.  Marked to market: 10057792
+Final holdings for POV_EXECUTION_AGENT: { CASH: 10000000 }.  Marked to market: 10000000
+Logging order book to file...
+Processing orderbook log: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 92966/92966 [00:44<00:00, 2095.06it/s] 
+Order book logging complete!
+Time taken to log the order book: 0:00:54.575775
+Order book archival complete.
+Event Queue elapsed: 0 days 00:09:50.559961, messages: 1157476, messages per second: 1960.0
+Mean ending value by agent type:
+NoiseAgent: 47
+ValueAgent: -740
+AdaptivePOVMarketMakerAgent: -280602
+MomentumAgent: 57892
+ExecutionAgent: 0
+Simulation ending!
+Simulation End Time: 2022-07-14 19:38:34.052572
+Time taken to run simulation: 0:10:56.383751
