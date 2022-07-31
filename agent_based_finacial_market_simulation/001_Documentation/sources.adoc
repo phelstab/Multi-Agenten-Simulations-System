@@ -11,8 +11,42 @@ Building own Trading Agents Wiki: https://github.com/abides-sim/abides/wiki/Expe
 
 Glossar:
 RMSC03 -> Reference Market Simulation Configuration
+    Referenzmarkt -> z. B. XETRA, XITARO, NASDAQ, NYSE, etc.
 ABM -> Agent Based Modelling
 
+time series -> Zeitreihenanalyse -> https://de.wikipedia.org/wiki/Zeitreihenanalyse
+fundamental value -> For assets, equity markets and bond markets, fundamental value is the present value of future cash flows
+True Fundamental Value Times Series -> As precise as possible, the present value of the future cashflows of an asset, equity or bond
+    price time series -> 
+    exogenous -> 
+    exogenous price time series -> 
+
+Intrinsic value -> Innerer Wert -> 
+Intrinsic value time series ->
+Exogenous and endogenous variables ->
+global consensus value -> global übereinstimmender Wert für ein Asset zwischen allen Agenten
+
+mean-reverting fundamentalist value -> 
+Mean Reversion -> https://www.investopedia.com/terms/m/meanreversion.asp
+
+
+Bayesian agent -> 
+Zero Intelligence agent -> 
+Heuristic Belief Learning -> 
+Market Maker Agent -> 
+Momentum Agent -> 
+Exchange Agent -> 
+Financial Agent -> 
+Noise Agent -> 
+Execution Agent ->
+OrderBook Imbalance Agent ->  
+Value Agent ->
+POV Execution Agent (Percent of Volume) -> 
+TWAP Execution Agent (Time-weighted average price) -> 
+VWAP Execution Agent (Volume-weighted average price) -> 
+
+
+"""
 
 
 
