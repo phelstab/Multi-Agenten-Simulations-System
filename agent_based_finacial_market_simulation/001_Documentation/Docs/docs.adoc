@@ -1,0 +1,227 @@
+:toc: macro
+:doctype: book
+:encoding: utf-16
+:lang: de
+:toc: macro
+:numbered:
+:toclevels: 2
+:icons: font
+:hardbreaks:
+:nofooter:
+:toc-title: Bachelorthesis HfT Stuttgart
+:title: Titel
+:author: Paul Helstab
+:imagesdir: .\images
+= Thesis Dokumentation
+:toc:
+
+== Glossare
+
+
+=== Agenten Glossar
+
+// Description
+[cols="1,1"]
+|===
+|Begriff / term {set:cellbgcolor:#6432fa}
+|Erläuterung / guidance{set:cellbgcolor:#6432fa}
+
+|Bayesian agent{set:cellbgcolor:none}
+|
+
+|Zero Intelligence agent 
+|
+
+|Heuristic Belief Learnin
+|
+
+|Market Maker Agent
+|
+
+|Exchange Agent
+|
+
+|Financial Agent 
+|
+
+|Noise Agent
+|
+
+|Execution Agent 
+|
+
+|OrderBook Imbalance Agent
+|
+
+|Value Agent 
+|
+
+|POV Execution Agent (Percent of Volume) 
+|
+
+|TWAP Execution Agent (Time-weighted average price) 
+|
+
+|VWAP Execution Agent (Volume-weighted average price)
+|
+
+|===
+
+
+
+=== Config Glossar
+
+// Description
+[cols="1,1"]
+|===
+|Begriff / term {set:cellbgcolor:#6432fa}
+|Erläuterung / guidance{set:cellbgcolor:#6432fa}
+
+|RMSC03 Reference Market Simulation Configuration{set:cellbgcolor:none}
+|Referenzmärkte -> z. B. XETRA, XITARO, NASDAQ, NYSE, etc.
+|===
+
+
+=== Parameter Glossar
+
+// Description
+[cols="1,1,1"]
+|===
+|Begriff / term {set:cellbgcolor:#6432fa}
+|Erläuterung / guidance{set:cellbgcolor:#6432fa}
+|Beispiel / example{set:cellbgcolor:#6432fa}
+
+
+|-c{set:cellbgcolor:none}
+|config
+|
+
+|-t
+|ticker
+|
+
+|-d 
+|date
+|
+
+|-s
+|seed for randomisation
+|
+
+|-l
+|log directory / log directory name
+|
+
+
+|===
+
+
+=== Begriffs Glossar
+
+// Description
+[cols="1,1"]
+|===
+|Begriff / term {set:cellbgcolor:#6432fa}
+|Erläuterung / guidance{set:cellbgcolor:#6432fa}
+
+|time series -> Zeitreihenanalyse{set:cellbgcolor:none}
+|https://de.wikipedia.org/wiki/Zeitreihenanalyse
+
+
+|ABM
+|Agent Based Modelling
+
+|fundamental value
+|For assets, equity markets and bond markets, fundamental value is the present value of future cash flows
+
+|True Fundamental Value Times Series
+|As precise as possible, the present value of the future cashflows of an asset, equity or bond
+
+|price time series
+|
+
+|exogenous
+|
+
+|exogenous price time series
+|
+
+|Intrinsic value / Innerer Wert
+|
+
+|Intrinsic value time series 
+|
+
+|Exogenous and endogenous variables
+|
+
+|global consensus value
+|global übereinstimmender Wert für ein Asset zwischen allen Agenten
+
+|mean-reverting fundamentalist value
+|
+
+|Mean Reversion
+|https://www.investopedia.com/terms/m/meanreversion.asp
+|===
+
+
+
+== Einleitung
+
+
+=== Ziel des Dokuments
+
+Dieses Dokument beschreibt...
+
+
+=== Zielgruppen
+
+Das Dokument ist an folgende Empfänger gerichtet:
+
+* XXX
+
+
+=== Referenzierte Dokumente
+
+Das Dokument basiert auf folgenden Dokumenten:
+
+* https://arxiv.org/abs/1904.12066
+* https://dl.acm.org/doi/10.1145/3384441.3395986
+* https://arxiv.org/abs/1909.11650
+
+
+Wiki Pages:
+
+* RMSC03 Wiki: https://github.com/abides-sim/abides/wiki
+* Building own Trading Agents Wiki: https://github.com/abides-sim/abides/wiki/ExperimentalAgents
+
+
+=== Aufbau und Struktur
+
+Das Dokument ist in folgende Kapitel untergliedert:
+
+* XXX
+
+
+
+
+== Experimente
+
+
+```sh
+$ python -u abides.py -c rmsc03 -t ABM -d 20200603 -s 1234 -l rmsc03_two_hour
+```
+
+```sh
+$ python -u liquidity_telemetry.py ../../log/rmsc03_two_hour/EXCHANGE_AGENT.bz2 ../../log/rmsc03_two_hour/ORDERBOOK_ABM_FULL.bz2 \ -o rmsc03_two_hour.png -c configs/plot_09.30_11.30.json
+```
+
+
+
+.Unterschrift für das Bild
+image::1.png[]
+
+
+
+
